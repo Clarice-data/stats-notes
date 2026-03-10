@@ -1,30 +1,30 @@
 # stats-notes
 
 Statistics coursework and practice from STA2023 — Elementary Statistics at FSCJ.
+Spring 2026 | Instructor: Dean Moore | Online
 
-this repo grows as the course progresses. notes, datasets, and practice problems
-will be added throughout the semester.
+this repo documents my progress through the course, organized by topic.
+notes are added as i complete each unit.
 
-## course info
-- **school**: Florida State College at Jacksonville (FSCJ)
-- **course**: STA2023 — Elementary Statistics
-- **tool**: ALEKS (adaptive learning platform)
-- **program**: A.S. Data Analytics (in progress)
+## course topics
 
-## what will be here
-- weekly notes and concept summaries
-- practice problem walkthroughs
-- datasets used in coursework
-- connections between stats concepts and data analytics applications
+- [x] Data & Variables — Types & Levels of Measurement
+- [x] Descriptive Statistics — Organizing & Displaying Data
+- [x] Measures of Center & Spread
+- [x] Data Collection, Sampling & Study Design
+- [x] Probability — Rules, Counting & Conditional
+- [x] Random Variables & Distributions
+- [x] Sampling Distributions & Central Limit Theorem
+- [ ] Confidence Intervals & Hypothesis Testing
+- [ ] Correlation & Regression
+- [ ] Two-Sample Tests & Chi-Square
 
-## topics covered so far
-*(updated as the course progresses)*
-- [ ] Descriptive statistics
-- [ ] Probability
-- [ ] Distributions
-- [ ] Hypothesis testing
-- [ ] Regression
+## tools
+- ALEKS (adaptive learning platform)
+- Google Sheets (practice datasets)
+
+## program
+A.S. Data Analytics — Florida State College at Jacksonville (FSCJ)
 
 ---
-*this repo is a living document. it reflects where i am in the course,
-not a complete statistics reference.*
+*notes are added as topics are completed. checkboxes reflect current progress.*
