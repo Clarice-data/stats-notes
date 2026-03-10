@@ -21,7 +21,7 @@ notes are added as i complete each unit.
 
 ## tools
 - ALEKS (adaptive learning platform)
-- Google Sheets (practice datasets)
+- Notion (study notes and reference pages)
 
 ## program
 A.S. Data Analytics — Florida State College at Jacksonville (FSCJ)
