@@ -6,18 +6,18 @@ Spring 2026 | Instructor: Dean Moore | Online
 this repo documents my progress through the course, organized by topic.
 notes are added as i complete each unit.
 
-## course topics
+## reference files
+- [formulas.md](formulas.md) — master formula reference for the entire course
+- [symbols-reference.md](symbols-reference.md) — all symbols and notation by unit
 
-- [x] Data & Variables — Types & Levels of Measurement
-- [x] Descriptive Statistics — Organizing & Displaying Data
-- [x] Measures of Center & Spread
-- [x] Data Collection, Sampling & Study Design
-- [x] Probability — Rules, Counting & Conditional
-- [x] Random Variables & Distributions
-- [x] Sampling Distributions & Central Limit Theorem
-- [ ] Confidence Intervals & Hypothesis Testing
-- [ ] Correlation & Regression
-- [ ] Two-Sample Tests & Chi-Square
+## topic notes
+
+- [x] [probability-notes.md](probability-notes.md) — rules, counting, conditional probability
+- [x] [random-variables-notes.md](random-variables-notes.md) — distributions, binomial, normal
+- [x] [confidence-intervals-hypothesis-testing.md](confidence-intervals-hypothesis-testing.md) — CIs, t-tests, z-tests, error types
+- [x] [correlation-regression-notes.md](correlation-regression-notes.md) — r, regression line, r², proportions
+- [ ] descriptive-statistics-notes.md — coming as coursework progresses
+- [ ] sampling-distributions-notes.md — coming as coursework progresses
 
 ## tools
 - ALEKS (adaptive learning platform)
